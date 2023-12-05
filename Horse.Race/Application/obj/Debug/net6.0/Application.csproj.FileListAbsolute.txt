@@ -1,0 +1,15 @@
+C:\Development\race\Horse.Race\Application\bin\Debug\net6.0\Application.deps.json
+C:\Development\race\Horse.Race\Application\bin\Debug\net6.0\Application.dll
+C:\Development\race\Horse.Race\Application\bin\Debug\net6.0\Application.pdb
+C:\Development\race\Horse.Race\Application\bin\Debug\net6.0\Domain.dll
+C:\Development\race\Horse.Race\Application\bin\Debug\net6.0\Domain.pdb
+C:\Development\race\Horse.Race\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Development\race\Horse.Race\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\race\Horse.Race\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Development\race\Horse.Race\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Development\race\Horse.Race\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Development\race\Horse.Race\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Development\race\Horse.Race\Application\obj\Debug\net6.0\Application.dll
+C:\Development\race\Horse.Race\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Development\race\Horse.Race\Application\obj\Debug\net6.0\Application.pdb
+C:\Development\race\Horse.Race\Application\obj\Debug\net6.0\ref\Application.dll
